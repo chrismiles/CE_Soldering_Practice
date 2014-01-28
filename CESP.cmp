@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 1/27/2014 2:51:50 PM
+
+BeginCmp
+TimeStamp = /52E5AB09;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5AB18;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5AB27;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5AC65;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = SOIC24;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5AEAD;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5C31C;
+Reference = D3;
+ValeurCmp = ZENER;
+IdModule  = BZX84C5V1S-7-F;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5ACB4;
+Reference = Q1;
+ValeurCmp = PN2222A;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5AD34;
+Reference = Q2;
+ValeurCmp = PN2222A;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5BB57;
+Reference = Q3;
+ValeurCmp = MOSFET_N;
+IdModule  = IRF7607TRPBF;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5AADC;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5AAEB;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5AAFA;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5AEBC;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5AF55;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = EG4791-ND;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5AAA3;
+Reference = U1;
+ValeurCmp = LM324;
+IdModule  = LM324DR;
+EndCmp
+
+EndListe
